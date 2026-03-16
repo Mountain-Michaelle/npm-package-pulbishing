@@ -1,0 +1,12 @@
+{
+  "name": "my-package-from-agit",
+  "version": "1.0.0",
+  "description": "this is my first package creation from scratch",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
